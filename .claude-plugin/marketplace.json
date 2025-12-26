@@ -18,8 +18,8 @@
         "email": "jesse@fsck.com"
       },
       "source": {
-        "source": "github",
-        "repo": "obra/superpowers"
+        "source": "url",
+        "url": "https://github.com/obra/superpowers.git"
       },
       "license": "MIT",
       "keywords": ["skills", "TDD", "debugging", "collaboration", "best-practices"]
@@ -33,8 +33,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/code-documentation"
       },
       "license": "MIT",
@@ -49,8 +49,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/debugging-toolkit"
       },
       "license": "MIT",
@@ -65,8 +65,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/git-pr-workflows"
       },
       "license": "MIT",
@@ -81,8 +81,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/backend-development"
       },
       "license": "MIT",
@@ -97,8 +97,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/frontend-mobile-development"
       },
       "license": "MIT",
@@ -113,8 +113,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/full-stack-orchestration"
       },
       "license": "MIT",
@@ -129,8 +129,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/unit-testing"
       },
       "license": "MIT",
@@ -145,8 +145,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/tdd-workflows"
       },
       "license": "MIT",
@@ -161,8 +161,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/code-review-ai"
       },
       "license": "MIT",
@@ -177,8 +177,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/code-refactoring"
       },
       "license": "MIT",
@@ -193,8 +193,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/dependency-management"
       },
       "license": "MIT",
@@ -209,8 +209,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/error-debugging"
       },
       "license": "MIT",
@@ -225,8 +225,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/team-collaboration"
       },
       "license": "MIT",
@@ -241,8 +241,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/llm-application-dev"
       },
       "license": "MIT",
@@ -257,8 +257,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/agent-orchestration"
       },
       "license": "MIT",
@@ -273,8 +273,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/context-management"
       },
       "license": "MIT",
@@ -289,8 +289,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/machine-learning-ops"
       },
       "license": "MIT",
@@ -305,8 +305,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/data-engineering"
       },
       "license": "MIT",
@@ -321,8 +321,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/incident-response"
       },
       "license": "MIT",
@@ -337,8 +337,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/error-diagnostics"
       },
       "license": "MIT",
@@ -353,8 +353,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/distributed-debugging"
       },
       "license": "MIT",
@@ -369,8 +369,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/observability-monitoring"
       },
       "license": "MIT",
@@ -385,8 +385,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/deployment-strategies"
       },
       "license": "MIT",
@@ -401,8 +401,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/deployment-validation"
       },
       "license": "MIT",
@@ -417,8 +417,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/kubernetes-operations"
       },
       "license": "MIT",
@@ -433,8 +433,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/cloud-infrastructure"
       },
       "license": "MIT",
@@ -449,8 +449,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/cicd-automation"
       },
       "license": "MIT",
@@ -465,8 +465,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/application-performance"
       },
       "license": "MIT",
@@ -481,8 +481,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/database-cloud-optimization"
       },
       "license": "MIT",
@@ -497,8 +497,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/comprehensive-review"
       },
       "license": "MIT",
@@ -513,8 +513,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/performance-testing-review"
       },
       "license": "MIT",
@@ -529,8 +529,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/framework-migration"
       },
       "license": "MIT",
@@ -545,8 +545,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/codebase-cleanup"
       },
       "license": "MIT",
@@ -561,8 +561,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/database-design"
       },
       "license": "MIT",
@@ -577,8 +577,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/database-migrations"
       },
       "license": "MIT",
@@ -593,8 +593,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/security-scanning"
       },
       "license": "MIT",
@@ -609,8 +609,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/security-compliance"
       },
       "license": "MIT",
@@ -625,8 +625,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/backend-api-security"
       },
       "license": "MIT",
@@ -641,8 +641,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/frontend-mobile-security"
       },
       "license": "MIT",
@@ -657,8 +657,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/data-validation-suite"
       },
       "license": "MIT",
@@ -673,8 +673,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/api-scaffolding"
       },
       "license": "MIT",
@@ -689,8 +689,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/api-testing-observability"
       },
       "license": "MIT",
@@ -705,8 +705,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/seo-content-creation"
       },
       "license": "MIT",
@@ -721,8 +721,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/seo-technical-optimization"
       },
       "license": "MIT",
@@ -737,8 +737,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/seo-analysis-monitoring"
       },
       "license": "MIT",
@@ -753,8 +753,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/documentation-generation"
       },
       "license": "MIT",
@@ -769,8 +769,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/c4-architecture"
       },
       "license": "MIT",
@@ -785,8 +785,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/multi-platform-apps"
       },
       "license": "MIT",
@@ -801,8 +801,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/business-analytics"
       },
       "license": "MIT",
@@ -817,8 +817,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/hr-legal-compliance"
       },
       "license": "MIT",
@@ -833,8 +833,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/customer-sales-automation"
       },
       "license": "MIT",
@@ -849,8 +849,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/content-marketing"
       },
       "license": "MIT",
@@ -865,8 +865,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/blockchain-web3"
       },
       "license": "MIT",
@@ -881,8 +881,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/quantitative-trading"
       },
       "license": "MIT",
@@ -897,8 +897,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/payment-processing"
       },
       "license": "MIT",
@@ -913,8 +913,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/game-development"
       },
       "license": "MIT",
@@ -929,8 +929,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/accessibility-compliance"
       },
       "license": "MIT",
@@ -945,8 +945,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/python-development"
       },
       "license": "MIT",
@@ -961,8 +961,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/javascript-typescript"
       },
       "license": "MIT",
@@ -977,8 +977,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/systems-programming"
       },
       "license": "MIT",
@@ -993,8 +993,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/jvm-languages"
       },
       "license": "MIT",
@@ -1009,8 +1009,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/web-scripting"
       },
       "license": "MIT",
@@ -1025,8 +1025,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/functional-programming"
       },
       "license": "MIT",
@@ -1041,8 +1041,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/julia-development"
       },
       "license": "MIT",
@@ -1057,8 +1057,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/arm-cortex-microcontrollers"
       },
       "license": "MIT",
@@ -1073,8 +1073,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/shell-scripting"
       },
       "license": "MIT",
@@ -1089,8 +1089,8 @@
         "email": "seth@major7apps.com"
       },
       "source": {
-        "source": "github",
-        "repo": "wshobson/agents",
+        "source": "url",
+        "url": "https://github.com/wshobson/agents.git",
         "path": "plugins/developer-essentials"
       },
       "license": "MIT",
@@ -1105,8 +1105,8 @@
         "email": "ashwin@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/agent-sdk-dev"
       },
       "license": "MIT",
@@ -1121,8 +1121,8 @@
         "email": "whu@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/claude-opus-4-5-migration"
       },
       "license": "MIT",
@@ -1137,8 +1137,8 @@
         "email": "boris@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/code-review"
       },
       "license": "MIT",
@@ -1153,8 +1153,8 @@
         "email": "support@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/commit-commands"
       },
       "license": "MIT",
@@ -1169,8 +1169,8 @@
         "email": "dickson@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/explanatory-output-style"
       },
       "license": "MIT",
@@ -1185,8 +1185,8 @@
         "email": "sbidasaria@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/feature-dev"
       },
       "license": "MIT",
@@ -1201,8 +1201,8 @@
         "email": "prithvi@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/frontend-design"
       },
       "license": "MIT",
@@ -1217,8 +1217,8 @@
         "email": "daisy@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/hookify"
       },
       "license": "MIT",
@@ -1233,8 +1233,8 @@
         "email": "boris@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/learning-output-style"
       },
       "license": "MIT",
@@ -1249,8 +1249,8 @@
         "email": "daisy@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/plugin-dev"
       },
       "license": "MIT",
@@ -1265,8 +1265,8 @@
         "email": "daisy@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/pr-review-toolkit"
       },
       "license": "MIT",
@@ -1281,8 +1281,8 @@
         "email": "daisy@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/ralph-wiggum"
       },
       "license": "MIT",
@@ -1297,8 +1297,8 @@
         "email": "dworken@anthropic.com"
       },
       "source": {
-        "source": "github",
-        "repo": "anthropics/claude-code",
+        "source": "url",
+        "url": "https://github.com/anthropics/claude-code.git",
         "path": "plugins/security-guidance"
       },
       "license": "MIT",
