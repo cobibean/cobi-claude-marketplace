@@ -1,243 +1,172 @@
 # Cobi Claude Marketplace
 
-A curated collection of production-ready Claude Code plugins from the community. This marketplace aggregates 81 plugins from three premier sources to enhance your Claude Code experience.
+A curated collection of **verified, production-ready** Claude Code plugins from trusted sources. This marketplace focuses on quality over quantity, featuring only plugins that are guaranteed to work correctly.
 
 ## Installation
 
-To use this marketplace, point your Claude Code installation to this repository:
+Add this marketplace to your Claude Code installation:
 
 ```bash
-cc --marketplace https://github.com/your-org/cobi-claude-marketplace
+claude marketplace add https://github.com/cobibean/cobi-claude-marketplace.git
 ```
 
-Or install individual plugins:
+Then install individual plugins:
 
 ```bash
-/plugin install <plugin-name>
+/plugin install superpowers@cobi-claude-marketplace
+/plugin install code-review@cobi-claude-marketplace
 ```
 
-## Plugin Collections
-
-### Official Anthropic Plugins (13 plugins)
-
-Official plugins from the Claude Code team at Anthropic.
-
-#### Development Tools
-
-- **agent-sdk-dev** (v1.0.0) - Claude Agent SDK Development Plugin
-  - Author: Ashwin Bhat
-  - Source: anthropics/claude-code
-
-- **plugin-dev** (v0.1.0) - Comprehensive toolkit for developing Claude Code plugins with 7 specialized skills and guided workflow
-  - Author: Daisy Hollman
-  - Source: anthropics/claude-code
-
-- **feature-dev** (v1.0.0) - Comprehensive feature development workflow with specialized agents for codebase exploration, architecture design, and quality review
-  - Author: Sid Bidasaria
-  - Source: anthropics/claude-code
-
-- **frontend-design** (v1.0.0) - Frontend design skill for UI/UX implementation
-  - Authors: Prithvi Rajasekaran, Alexander Bricken
-  - Source: anthropics/claude-code
-
-#### Code Quality & Review
-
-- **code-review** (v1.0.0) - Automated code review for pull requests using multiple specialized agents with confidence-based scoring
-  - Author: Boris Cherny
-  - Source: anthropics/claude-code
-
-- **pr-review-toolkit** (v1.0.0) - Comprehensive PR review agents specializing in comments, tests, error handling, type design, code quality, and code simplification
-  - Author: Daisy
-  - Source: anthropics/claude-code
-
-#### Git Workflow
-
-- **commit-commands** (v1.0.0) - Streamline your git workflow with simple commands for committing, pushing, and creating pull requests
-  - Author: Anthropic
-  - Source: anthropics/claude-code
-
-#### Output Styles & Learning
-
-- **explanatory-output-style** (v1.0.0) - Adds educational insights about implementation choices and codebase patterns (mimics the deprecated Explanatory output style)
-  - Author: Dickson Tsai
-  - Source: anthropics/claude-code
-
-- **learning-output-style** (v1.0.0) - Interactive learning mode that requests meaningful code contributions at decision points (mimics the unshipped Learning output style)
-  - Author: Boris Cherny
-  - Source: anthropics/claude-code
-
-#### Utilities & Automation
-
-- **hookify** (v0.1.0) - Easily create hooks to prevent unwanted behaviors by analyzing conversation patterns
-  - Author: Daisy Hollman
-  - Source: anthropics/claude-code
-
-- **ralph-wiggum** (v1.0.0) - Continuous self-referential AI loops for interactive iterative development
-  - Author: Daisy Hollman
-  - Source: anthropics/claude-code
-
-- **security-guidance** (v1.0.0) - Warn about potential security issues when editing files - targets command injection, XSS vulnerabilities, and dangerous coding patterns
-  - Author: David Dworken
-  - Source: anthropics/claude-code
-
-- **claude-opus-4-5-migration** (v1.0.0) - Migrate your code and prompts from Sonnet 4.x and Opus 4.1 to Opus 4.5
-  - Author: William Hu
-  - Source: anthropics/claude-code
-
----
+## Available Plugins
 
 ### Superpowers by Jesse Vincent
 
 - **superpowers** (v4.0.2) - Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques
   - Author: Jesse Vincent
-  - Source: obra/superpowers
+  - Source: [obra/superpowers](https://github.com/obra/superpowers)
+  - **Highly Recommended** - Foundational skills library for professional development workflows
 
-A foundational skills library emphasizing test-driven development, debugging methodologies, team coordination, and industry best practices.
+### Official Anthropic Plugins
+
+#### Development Tools
+
+- **agent-sdk-dev** (v1.0.0) - Claude Agent SDK Development Plugin
+  - Author: Ashwin Bhat (Anthropic)
+
+- **plugin-dev** (v0.1.0) - Comprehensive toolkit for developing Claude Code plugins with 7 specialized skills and guided workflow
+  - Author: Daisy Hollman (Anthropic)
+
+- **feature-dev** (v1.0.0) - Comprehensive feature development workflow with specialized agents for codebase exploration, architecture design, and quality review
+  - Author: Sid Bidasaria (Anthropic)
+
+- **frontend-design** (v1.0.0) - Frontend design skill for UI/UX implementation
+  - Author: Prithvi Rajasekaran (Anthropic)
+
+#### Code Quality & Review
+
+- **code-review** (v1.0.0) - Automated code review for pull requests using multiple specialized agents with confidence-based scoring
+  - Author: Boris Cherny (Anthropic)
+
+- **pr-review-toolkit** (v1.0.0) - Comprehensive PR review agents specializing in comments, tests, error handling, type design, code quality, and code simplification
+  - Author: Daisy (Anthropic)
+
+#### Git Workflow
+
+- **commit-commands** (v1.0.0) - Streamline your git workflow with simple commands for committing, pushing, and creating pull requests
+  - Author: Anthropic
+
+#### Output Styles & Learning
+
+- **explanatory-output-style** (v1.0.0) - Adds educational insights about implementation choices and codebase patterns
+  - Author: Dickson Tsai (Anthropic)
+
+- **learning-output-style** (v1.0.0) - Interactive learning mode that requests meaningful code contributions at decision points
+  - Author: Boris Cherny (Anthropic)
+
+#### Utilities & Automation
+
+- **hookify** (v0.1.0) - Easily create hooks to prevent unwanted behaviors by analyzing conversation patterns
+  - Author: Daisy Hollman (Anthropic)
+
+- **ralph-wiggum** (v1.0.0) - Continuous self-referential AI loops for interactive iterative development
+  - Author: Daisy Hollman (Anthropic)
+
+- **security-guidance** (v1.0.0) - Warn about potential security issues when editing files - targets command injection, XSS vulnerabilities, and dangerous coding patterns
+  - Author: David Dworken (Anthropic)
+
+- **claude-opus-4-5-migration** (v1.0.0) - Migrate your code and prompts from Sonnet 4.x and Opus 4.1 to Opus 4.5
+  - Author: William Hu (Anthropic)
 
 ---
 
-### Claude Code Workflows by Seth Hobson (67 plugins)
+## Want More Plugins?
 
-Production-ready workflow orchestration with 67 focused plugins, 99 specialized agents, and 107 skills - optimized for granular installation and minimal token usage.
+### Seth Hobson's Workflow Marketplace (67+ Plugins)
 
-#### Documentation (3 plugins)
+For access to Seth Hobson's extensive collection of 67 specialized workflow plugins, add his marketplace directly:
 
-- **code-documentation** (v1.2.0) - Doc generation, code explanation, tutorials
-- **documentation-generation** (v1.2.1) - OpenAPI specs, Mermaid diagrams, tutorials
-- **c4-architecture** (v1.0.0) - C4 documentation with code analysis
+```bash
+# Add Seth's marketplace
+claude marketplace add https://github.com/wshobson/agents.git
+```
 
-#### Development (6 plugins)
+**Then you can install any of his plugins:**
 
-- **debugging-toolkit** (v1.2.0) - Interactive debugging, DX optimization
-- **backend-development** (v1.2.4) - API design, GraphQL, Temporal, TDD
-- **frontend-mobile-development** (v1.2.1) - UI/mobile implementation across platforms
-- **multi-platform-apps** (v1.2.1) - Cross-platform coordination
-- **developer-essentials** (v1.0.1) - Git, SQL, testing, auth, monorepo
+```bash
+# Development & Debugging
+/plugin install debugging-toolkit@claude-code-workflows
+/plugin install backend-development@claude-code-workflows
+/plugin install frontend-mobile-development@claude-code-workflows
 
-#### Workflows (4 plugins)
+# Blockchain & Web3
+/plugin install blockchain-web3@claude-code-workflows
 
-- **git-pr-workflows** (v1.2.1) - Git automation, pull requests, onboarding
-- **full-stack-orchestration** (v1.2.1) - End-to-end feature orchestration
-- **tdd-workflows** (v1.2.1) - Red-green-refactor methodology
+# AI & Machine Learning
+/plugin install llm-application-dev@claude-code-workflows
+/plugin install agent-orchestration@claude-code-workflows
+/plugin install machine-learning-ops@claude-code-workflows
 
-#### Testing (2 plugins)
+# Infrastructure & Operations
+/plugin install kubernetes-operations@claude-code-workflows
+/plugin install cloud-infrastructure@claude-code-workflows
+/plugin install cicd-automation@claude-code-workflows
 
-- **unit-testing** (v1.2.0) - Python/JavaScript test automation
-- **performance-testing-review** (v1.2.0) - Performance analysis, test coverage
+# Database & Performance
+/plugin install database-design@claude-code-workflows
+/plugin install database-cloud-optimization@claude-code-workflows
+/plugin install application-performance@claude-code-workflows
 
-#### Code Quality (2 plugins)
+# Security
+/plugin install security-scanning@claude-code-workflows
+/plugin install security-compliance@claude-code-workflows
+/plugin install backend-api-security@claude-code-workflows
 
-- **code-review-ai** (v1.2.0) - Architectural review, quality analysis
-- **comprehensive-review** (v1.2.1) - Multi-perspective code analysis
+# Marketing & SEO
+/plugin install seo-content-creation@claude-code-workflows
+/plugin install content-marketing@claude-code-workflows
 
-#### Utilities (3 plugins)
+# Programming Languages
+/plugin install python-development@claude-code-workflows
+/plugin install javascript-typescript@claude-code-workflows
+/plugin install systems-programming@claude-code-workflows
 
-- **code-refactoring** (v1.2.0) - Cleanup, refactoring, technical debt
-- **dependency-management** (v1.2.0) - Auditing, version management, security
-- **error-debugging** (v1.2.0) - Error analysis, trace debugging
-- **team-collaboration** (v1.2.0) - Workflows, standups, issue management
+# And 50+ more specialized plugins...
+```
 
-#### AI & Machine Learning (4 plugins)
+See the full list at: [wshobson/agents](https://github.com/wshobson/agents)
 
-- **llm-application-dev** (v1.2.2) - Prompt engineering, LLM optimization
-- **agent-orchestration** (v1.2.0) - Multi-agent systems, context management
-- **context-management** (v1.2.0) - Persistence, restoration, conversations
-- **machine-learning-ops** (v1.2.1) - ML pipelines, hyperparameter tuning
+---
 
-#### Data Engineering (3 plugins)
+## Plugin Summary
 
-- **data-engineering** (v1.2.2) - ETL pipelines, data warehouse design
-- **data-validation-suite** (v1.2.0) - Schema validation, data quality monitoring
+**Cobi's Curated Marketplace:**
+- **Total Plugins:** 14 (all verified to work correctly)
+- **Superpowers:** 1
+- **Official Anthropic:** 13
 
-#### Operations (5 plugins)
-
-- **incident-response** (v1.2.2) - Production incidents, triage workflows
-- **error-diagnostics** (v1.2.0) - Root cause analysis, smart debugging
-- **distributed-debugging** (v1.2.0) - Tracing across microservices
-- **observability-monitoring** (v1.2.1) - Metrics, logging, tracing, SLOs
-
-#### Infrastructure (5 plugins)
-
-- **deployment-strategies** (v1.2.0) - Deployment patterns, rollback automation
-- **deployment-validation** (v1.2.0) - Pre-deployment checks, validation
-- **kubernetes-operations** (v1.2.1) - K8s manifests, GitOps, auto-scaling
-- **cloud-infrastructure** (v1.2.2) - AWS/Azure/GCP, Terraform, multi-cloud
-- **cicd-automation** (v1.2.1) - GitHub Actions, GitLab CI, pipelines
-
-#### Performance (3 plugins)
-
-- **application-performance** (v1.2.1) - Profiling, optimization, observability
-- **database-cloud-optimization** (v1.2.0) - Query optimization, cost reduction
-
-#### Modernization (2 plugins)
-
-- **framework-migration** (v1.2.2) - Framework updates, architectural transformation
-- **codebase-cleanup** (v1.2.0) - Technical debt reduction, refactoring
-
-#### Database (2 plugins)
-
-- **database-design** (v1.2.0) - Architecture, schema design, SQL optimization
-- **database-migrations** (v1.2.0) - Migration automation, observability
-
-#### Security (5 plugins)
-
-- **security-scanning** (v1.2.3) - SAST, vulnerability scanning, OWASP
-- **security-compliance** (v1.2.0) - SOC2, HIPAA, GDPR validation
-- **backend-api-security** (v1.2.0) - API hardening, auth, authorization
-- **frontend-mobile-security** (v1.2.0) - XSS prevention, CSRF protection, CSP
-
-#### API Development (2 plugins)
-
-- **api-scaffolding** (v1.2.1) - REST/GraphQL scaffolding, generation
-- **api-testing-observability** (v1.2.0) - API testing, mocking, OpenAPI docs
-
-#### Marketing & SEO (4 plugins)
-
-- **seo-content-creation** (v1.2.0) - Content writing, planning, auditing
-- **seo-technical-optimization** (v1.2.0) - Meta tags, keywords, featured snippets
-- **seo-analysis-monitoring** (v1.2.0) - Content freshness, cannibalization detection
-- **content-marketing** (v1.2.0) - Strategy, research, synthesis
-
-#### Business (3 plugins)
-
-- **business-analytics** (v1.2.1) - Metrics analysis, KPI tracking, reporting
-- **hr-legal-compliance** (v1.2.1) - HR policies, legal templates, contracts
-- **customer-sales-automation** (v1.2.0) - Support workflows, sales pipelines, CRM
-
-#### Specialized Domains (5 plugins)
-
-- **blockchain-web3** (v1.2.1) - Smart contracts, DeFi, NFT platforms
-- **quantitative-trading** (v1.2.1) - Algorithmic trading, risk management
-- **payment-processing** (v1.2.1) - Stripe/PayPal integration, billing
-- **game-development** (v1.2.1) - Unity, C#, Minecraft plugin development
-- **accessibility-compliance** (v1.2.1) - WCAG auditing, screen reader testing
-
-#### Programming Languages (9 plugins)
-
-- **python-development** (v1.2.1) - Django, FastAPI, async patterns
-- **javascript-typescript** (v1.2.1) - ES6+, Node.js, React
-- **systems-programming** (v1.2.1) - Rust, Go, C, C++
-- **jvm-languages** (v1.2.0) - Java, Scala, C#
-- **web-scripting** (v1.2.0) - PHP, Ruby, Rails
-- **functional-programming** (v1.2.0) - Elixir, OTP, Phoenix
-- **julia-development** (v1.0.0) - Julia 1.10+, scientific computing
-- **arm-cortex-microcontrollers** (v1.2.0) - Firmware, Teensy, STM32, nRF52
-- **shell-scripting** (v1.2.1) - Bash, POSIX, defensive programming
-
-## Total Plugin Count
-
-- **Official Anthropic Plugins**: 13
-- **Superpowers**: 1
-- **Claude Code Workflows**: 67
-- **Total**: 81 plugins
+**Why This Marketplace?**
+- ✅ Every plugin is tested and verified to install correctly
+- ✅ No broken plugin installations
+- ✅ Curated selection of essential, high-quality tools
+- ✅ Clear documentation and usage examples
+- ✅ Regular updates to track upstream changes
 
 ## Contributing
 
-To add your plugin to this marketplace, please submit a pull request with:
+To suggest a plugin for this curated marketplace:
 
-1. Updated `marketplace.json` with your plugin entry
-2. Updated README.md with plugin description
-3. Proper GitHub source reference in the correct format
+1. Verify the plugin installs correctly from its source repository
+2. Test that all commands, agents, and skills work as expected
+3. Submit a pull request with:
+   - Updated `marketplace.json` with the plugin entry
+   - Updated README.md with plugin description
+   - Brief explanation of why it should be included
+
+**Quality Standards:**
+- Plugin must be root-level in its repository OR use verified subdirectory structure from Anthropic repos
+- Plugin must have clear documentation
+- Plugin must be actively maintained
+- Plugin source must be from a trusted developer/organization
 
 ## License
 
@@ -245,6 +174,19 @@ This marketplace repository is MIT licensed. Individual plugins maintain their o
 
 ## Sources
 
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Official Anthropic plugins
 - [obra/superpowers](https://github.com/obra/superpowers) - Core skills library by Jesse Vincent
-- [wshobson/agents](https://github.com/wshobson/agents) - Production workflow plugins by Seth Hobson
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Official Anthropic plugins
+- [wshobson/agents](https://github.com/wshobson/agents) - Production workflow plugins by Seth Hobson (add separately)
+
+## Version History
+
+### v2.0.0 (Current)
+- **Breaking Change:** Removed Seth Hobson's 67 plugins from direct marketplace references
+- **Reason:** Plugin subdirectory extraction not supported by Claude Code installer
+- **Solution:** Users should add Seth's marketplace directly (instructions above)
+- Cleaned up marketplace.json to only include verified, working plugins
+- Updated README with clear instructions for accessing additional plugins
+
+### v1.0.0
+- Initial marketplace release with 81 plugin references
+- (Had installation issues - plugins installed as empty directories)
